@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Out to Dry</string>
+
+    <!-- Main activity-->
+    <string name="indoor">Indoor</string>
+    <string name="outdoor">Outdoor</string>
+    <string name="location_not_found">No location found, try again or check your device settings</string>
+    <string name="calculatebutton">Calculate</string>
+    <string name="temperature_not_filled">Please fill the room temperature</string>
+
+    <!-- Timer activity-->
+    <string name="timer_title">Laundry will dry at:</string>
+    <string name="in_out">Where will you dry your laundry?</string>
+    <string name="temperature">Temperature:</string>
+    <string name="hint1">updated automatically</string>
+    <string name="hint2">in Celsius</string>
+    <string name="hint3">in Fahrenheit</string>
+    <string name="minutes">minutes</string>
+    <string name="hours">hours</string>
+    <string name="minute">minute</string>
+    <string name="hour">hour</string>
+    <string name="refresh">tap to refresh</string>
+    <string name="alarm_message">Time to pick up your clothes</string>
+    <string name="weather_not_found">Sorry, no weather data found, tap to refresh</string>
+
+    <!-- About activity-->
+    <string name="about_title">About</string>
+    <string name="aboutthisapp">Out to Dry is an app that estimates the time your clothes need to dry, inside or outside your home based on weather conditions.
+        \n\nOutside means that your clothes are away from direct sunlight and the wind is not blocked, while inside means that there is no wind.</string>
+    <string name="version">Version: 1.5</string>
+    <string name="createdby">Created by</string>
+
+    <!-- RemoteFetch activity-->
+    <string name="open_weather_maps_app_id" translatable="false">8ce21e4f443f7a231e42d7e55b35fdd7</string>
+
+
+    <!-- Settings Activity-->
+    <string name="settings_title">Settings</string>
+    <string name="temp_units">Temperature units</string>
+    <string name="units_key" translatable="false">units</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="listValues1" translatable="false">1</string>
+    <string name="listValues2" translatable="false">2</string>
+
+
+</resources>

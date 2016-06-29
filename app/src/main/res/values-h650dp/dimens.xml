@@ -1,0 +1,9 @@
+<resources>
+
+    <!--
+         Example customization of dimensions originally defined in res/values/dimens.xml
+         (such as screen margins) for screens with more than 550dp of available height.
+    -->
+    <dimen name="margin_top1">100dp</dimen>
+    <dimen name="margin_top2">70dp</dimen>
+</resources>

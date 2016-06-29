@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorAccent">@color/accent_material_light</color>-->
+    <color name="colorAccent">#009688</color>
+    <color name="darkcolorAccent">#00695c</color>
+    <color name="darkcolorAccent2">#004d40</color>
+    <color name="colorAccent2">#00bfa5</color>
+    <color name="white">#f7f7f7</color>
+
+    <color name="blue">#e5298da9</color>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">Acerca De</string>
+    <string name="aboutthisapp"> "A secar" es una aplicación que calcula el tiempo necesitan para secar su ropa, dentro o fuera de la casa sobra las condiciones climáticas.
+        \n\nAl aire libre significa que su ropa estés lejos del sol y el viento no es bloqueado. Interior significa que no hay viento.</string>
+    <string name="alarm_message">Su ropa son listos</string>
+    <string name="calculatebutton">Cálculo</string>
+    <string name="celsius">Celsius</string>
+    <string name="createdby">Creada por</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="hint1">actualizada automáticamente</string>
+    <string name="hint2">en Celsius</string>
+    <string name="hint3">en Fahrenheit</string>
+    <string name="hours">horas</string>
+    <string name="in_out">¿Dónde vas a secar la ropa?</string>
+    <string name="indoor">Dentro</string>
+    <string name="location_not_found">No se han encontrado ubicación, inténtelo de nuevo o comprobar las configuraciónes</string>
+    <string name="minutes">minutos</string>
+    <string name="outdoor">Al Aire Libre</string>
+    <string name="weather_not_found">Lo siento, no hay datos del tiempo , toque para recargar</string>
+    <string name="refresh">toque para recargrar</string>
+    <string name="settings_title">Ajustes</string>
+    <string name="temp_units">Unidades de temperatura</string>
+    <string name="temperature">Temperatura:</string>
+    <string name="temperature_not_filled">Por favor llene la temperatura</string>
+    <string name="timer_title">Lavandería se secará en:</string>
+    <string name="version">Versión: 1.5</string>
+    <string name="app_name">A Secar</string>
+    <string name="minute">minuto</string>
+    <string name="hour">hora</string>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_title">Σχετικά</string>
+    <string name="alarm_message">Ώρα να μαζέψετε τα ρούχα σας</string>
+    <string name="calculatebutton">Υπολογισμός</string>
+    <string name="createdby">Δημιουργήθηκε από</string>
+    <string name="hint1">συμπληρώνεται αυτόματα</string>
+    <string name="hint2">σε Κελσίου</string>
+    <string name="hint3">σε Φαρενάιτ</string>
+    <string name="hours">ώρες</string>
+    <string name="indoor">Μέσα</string>
+    <string name="minutes">λεπτά</string>
+    <string name="outdoor">Έξω</string>
+    <string name="in_out">Που θα απλώσετε τα ρούχα σας;</string>
+    <string name="location_not_found">Δεν βρέθηκε η τοποθεσία σας, πατήστε ξανά το κουμπί ή δείτε τις ρυθμίσεις της συσκευή σας</string>
+    <string name="weather_not_found">Δεν βρέθηκαν οι καιρικές συνθήκες, πατήστε για ανανέωση</string>
+    <string name="refresh">πατήστε για ανανέωση</string>
+    <string name="settings_title">Ρυθμίσεις</string>
+    <string name="temp_units">Μονάδες μέτρησης θερμοκρασίας</string>
+    <string name="temperature">Θερμοκρασία:</string>
+    <string name="temperature_not_filled">Συμπληρώστε πρώτα την θερμοκρασία του δωματίου</string>
+    <string name="timer_title">Θα στεγνώσουν σε:</string>
+    <string name="version">Έκδοση: 1.5</string>
+    <string name="celsius">Κελσίου</string>
+    <string name="fahrenheit">Φαρενάιτ</string>
+    <string name="aboutthisapp">Το μπουγαδόμετρο είναι μια εφαρμογή, που με βάση τις καιρικές συνθήκες της περιοχής σας, υπολογίζει σε πόση περίπου ώρα θα έχουν στεγνώσει τα απλωμένα σας ρούχα, μέσα ή έξω από το σπίτι.
+        \n\nΌταν μιλάμε για έξω από το σπίτι εννοούμε κάπου που δεν τα βλέπει κατευθείαν ο ήλιος και δεν μπλοκάρεται ο αέρας, ενώ μέσα σημαίνει ότι δεν υπάρχει ρεύμα αέρα.</string>
+    <string name="app_name">Μπουγαδόμετρο</string>
+    <string name="hour">ώρα</string>
+    <string name="minute">λεπτό</string>
+</resources>
